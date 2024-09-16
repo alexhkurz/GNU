@@ -2,8 +2,7 @@
 
 WARNING: This literature review has been curated with the help of an LLM through the [Cursor AI](https://www.cursor.com/) interface and has not been independently verified yet.
 
-The GNU Project was launched by Richard Stallman on September 27, 1983, to create a free Unix-likeoperating system. GNU is a recursive acronym for
-"GNU's Not Unix!".
+The GNU Project was launched by Richard Stallman on September 27, 1983, to create a free Unix-likeoperating system. GNU is a recursive acronym for "GNU's Not Unix!".
 ## Widely Used GNU Utilities and Programs
 
 - [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) ([Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)), 1989) The Bourne Again Shell, a widely used command processor.
@@ -72,4 +71,6 @@ The Linux kernel quickly gained popularity among developers and enthusiasts, lea
    - [Slackware](https://en.wikipedia.org/wiki/Slackware) (1993)
    - [Debian](https://en.wikipedia.org/wiki/Debian) (1993)
 
-**References:** [The early days of Linux](https://lwn.net/Articles/928581/) by [Lars Wirzenius](https://hackerhistory.com/podcast/the-history-of-lars-wirzenius/).
+## Further Reading
+
+- [The early days of Linux](https://lwn.net/Articles/928581/) by [Lars Wirzenius](https://hackerhistory.com/podcast/the-history-of-lars-wirzenius/).
