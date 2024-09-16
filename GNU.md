@@ -1,4 +1,4 @@
- # History of GNU
+ # History of GNU/Linux 
 
 WARNING: This literature review has been curated with the help of an LLM through the [Cursor AI](https://www.cursor.com/) interface and has not been independently verified yet.
 
@@ -17,12 +17,10 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 - [Tar](https://en.wikipedia.org/wiki/Tar_(computing)) ([John Gilmore](https://en.wikipedia.org/wiki/John_Gilmore_(activist)), 1988) An archiving utility.
 - [Sed](https://en.wikipedia.org/wiki/Sed) ([Lee E. McMahon](https://en.wikipedia.org/wiki/Lee_E._McMahon), 1974) A stream editor for filtering and transforming text. Adopted by GNU in the 1980s.
 
- ## History of GNU Core Utilities
+## History of GNU Core Utilities
 
- The GNU Core Utilities, or coreutils, is a package of GNU software containing reimplementations of many basic Unix tools. It was created to provide a
- consistent and free set of tools for Unix-like operating systems. The coreutils package combines three formerly separate packages: fileutils, shellutil
- and textutils. Here are some of the most important utilities:
- 
+The GNU Core Utilities, or coreutils, is a package of GNU software containing reimplementations of many basic Unix tools. It was created to provide a consistent and free set of tools for Unix-like operating systems. The coreutils package combines three formerly separate packages: fileutils, shellutil and textutils. Here are some of the most important utilities (see the footnotes for details):
+
 - [ls](https://en.wikipedia.org/wiki/Ls), [cp](https://en.wikipedia.org/wiki/Cp_(Unix)), [mv](https://en.wikipedia.org/wiki/Mv), [rm](https://en.wikipedia.org/wiki/Rm_(Unix)), [chmod](https://en.wikipedia.org/wiki/Chmod), [chown](https://en.wikipedia.org/wiki/Chown), [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [echo](https://en.wikipedia.org/wiki/Echo_(command)) [^1]
 - [touch](https://en.wikipedia.org/wiki/Touch_(command)) [^2]
 - [date](https://en.wikipedia.org/wiki/Date_(Unix)), [head](https://en.wikipedia.org/wiki/Head_(Unix)), [tail](https://en.wikipedia.org/wiki/Tail_(Unix)) [^3]
@@ -74,4 +72,4 @@ The Linux kernel quickly gained popularity among developers and enthusiasts, lea
    - [Slackware](https://en.wikipedia.org/wiki/Slackware) (1993)
    - [Debian](https://en.wikipedia.org/wiki/Debian) (1993)
 
-**References:** [The early days of Linux](https://lwn.net/Articles/928581/).
+**References:** [The early days of Linux](https://lwn.net/Articles/928581/) by [Lars Wirzenius](https://hackerhistory.com/podcast/the-history-of-lars-wirzenius/).
