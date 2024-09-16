@@ -7,33 +7,15 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 ## Widely Used GNU Utilities and Programs
 
 - **[GNU Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**: ([Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)), 1989) The Bourne Again Shell, a widely used command processor.
-- **[GNU Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities)**: Basic file, shell, and text manipulation utilities.
-  - **Author**: David MacKenzie
-  - **Initial Release**: 1992
-- **[GNU Compiler Collection (GCC)](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)**: A compiler system supporting various programming languages.
-  - **Author**: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
-  - **Initial Release**: 1987
-- **[GNU Emacs](https://en.wikipedia.org/wiki/GNU_Emacs)**: An extensible, customizable text editor.
-  - **Author**: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
-  - **Initial Release**: 1985
-- **[GNU Make](https://en.wikipedia.org/wiki/Make_(software)#GNU_Make)**: A build automation tool.
-  - **Author**: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
-  - **Initial Release**: 1988
-- **[GNU Debugger (GDB)](https://en.wikipedia.org/wiki/GNU_Debugger)**: A portable debugger.
-  - **Author**: [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
-  - **Initial Release**: 1986
-- **[GNU Binutils](https://en.wikipedia.org/wiki/GNU_Binutils)**: A collection of binary tools.
-  - **Author**: Steve Chamberlain
-  - **Initial Release**: 1990
-- **[GNU Wget](https://en.wikipedia.org/wiki/Wget)**: A network downloader.
-  - **Author**: [Hrvoje Nikšić](https://en.wikipedia.org/wiki/Hrvoje_Nik%C5%A1i%C4%87)
-  - **Initial Release**: 1996
-- **[GNU Tar](https://en.wikipedia.org/wiki/Tar_(computing))**: An archiving utility.
-  - **Author**: [John Gilmore](https://en.wikipedia.org/wiki/John_Gilmore_(activist))
-  - **Initial Release**: 1988
-- **[GNU Sed](https://en.wikipedia.org/wiki/Sed)**: A stream editor for filtering and transforming text.
-  - **Author**: [Lee E. McMahon](https://en.wikipedia.org/wiki/Lee_E._McMahon)
-  - **Initial Release**: 1974 (as part of Unix), adopted by GNU in the 1980s
+- **[GNU Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities)**: (David MacKenzie, 1992) Basic file, shell, and text manipulation utilities.
+- **[GNU Compiler Collection (GCC)](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1987) A compiler system supporting various programming languages.
+- **[GNU Emacs](https://en.wikipedia.org/wiki/GNU_Emacs)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1985) An extensible, customizable text editor.
+- **[GNU Make](https://en.wikipedia.org/wiki/Make_(software)#GNU_Make)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1988) A build automation tool.
+- **[GNU Debugger (GDB)](https://en.wikipedia.org/wiki/GNU_Debugger)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1986) A portable debugger.
+- **[GNU Binutils](https://en.wikipedia.org/wiki/GNU_Binutils)**: (Steve Chamberlain, 1990) A collection of binary tools.
+- **[GNU Wget](https://en.wikipedia.org/wiki/Wget)**: ([Hrvoje Nikšić](https://en.wikipedia.org/wiki/Hrvoje_Nik%C5%A1i%C4%87), 1996) A network downloader.
+- **[GNU Tar](https://en.wikipedia.org/wiki/Tar_(computing))**: ([John Gilmore](https://en.wikipedia.org/wiki/John_Gilmore_(activist)), 1988) An archiving utility.
+- **[GNU Sed](https://en.wikipedia.org/wiki/Sed)**: ([Lee E. McMahon](https://en.wikipedia.org/wiki/Lee_E._McMahon), 1974) A stream editor for filtering and transforming text. Adopted by GNU in the 1980s
 
  ## History of GNU Core Utilities
 
