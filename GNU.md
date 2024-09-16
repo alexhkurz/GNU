@@ -25,57 +25,34 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 
  ### Most Popular Command-Line Tools
 
-- **[ls](https://en.wikipedia.org/wiki/Ls), [cp](https://en.wikipedia.org/wiki/Cp_(Unix)), [mv](https://en.wikipedia.org/wiki/Mv), [rm](https://en.wikipedia.org/wiki/Rm_(Unix)), [chmod](https://en.wikipedia.org/wiki/Chmod), [chown](https://en.wikipedia.org/wiki/Chown), [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [echo](https://en.wikipedia.org/wiki/Echo_(command))**:
-  - **Original Unix Author**: Ken Thompson
-  - **Original Unix Release**: circa 1971-1973
-  - **GNU Implementation**: Richard Stallman
-  - **GNU Initial Release**: 1980s (exact dates vary)
-  - **Included in GNU Coreutils**: 1992
+- **[ls](https://en.wikipedia.org/wiki/Ls), [cp](https://en.wikipedia.org/wiki/Cp_(Unix)), [mv](https://en.wikipedia.org/wiki/Mv), [rm](https://en.wikipedia.org/wiki/Rm_(Unix)), [chmod](https://en.wikipedia.org/wiki/Chmod), [chown](https://en.wikipedia.org/wiki/Chown), [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [echo](https://en.wikipedia.org/wiki/Echo_(command))**[^1]
+- **[touch](https://en.wikipedia.org/wiki/Touch_(command))**[^2]
+- **[date](https://en.wikipedia.org/wiki/Date_(Unix)), [head](https://en.wikipedia.org/wiki/Head_(Unix)), [tail](https://en.wikipedia.org/wiki/Tail_(Unix))**[^3]
+- **[grep](https://en.wikipedia.org/wiki/Grep)**[^4]
+- **[awk](https://en.wikipedia.org/wiki/AWK)**[^5]
+- **[find](https://en.wikipedia.org/wiki/Find_(Unix))**[^6]
 
-- **[touch](https://en.wikipedia.org/wiki/Touch_(command))**:
-  - **Original Unix Author**: Unknown (part of early Unix)
-  - **Original Unix Release**: 1970s
-  - **GNU Implementation**: Richard Stallman
-  - **GNU Initial Release**: 1980s
-  - **Included in GNU Coreutils**: 1992
+[^1]: Original Unix Author: Ken Thompson; Original Unix Release: circa 1971-1973; GNU Implementation: Richard Stallman; GNU Initial Release: 1980s (exact dates vary); Included in GNU Coreutils: 1992
 
-- **[date](https://en.wikipedia.org/wiki/Date_(Unix)), [head](https://en.wikipedia.org/wiki/Head_(Unix)), [tail](https://en.wikipedia.org/wiki/Tail_(Unix))**:
-  - **Original Unix Author**: Unknown (part of early Unix)
-  - **Original Unix Release**: 1970s
-  - **GNU Implementation**: David MacKenzie
-  - **GNU Initial Release**: 1980s
-  - **Included in GNU Coreutils**: 1992
+[^2]: Original Unix Author: Unknown (part of early Unix); Original Unix Release: 1970s; GNU Implementation: Richard Stallman; GNU Initial Release: 1980s; Included in GNU Coreutils: 1992
 
-- **[grep](https://en.wikipedia.org/wiki/Grep)**:
-  - **Original Unix Author**: Ken Thompson
-  - **Original Unix Release**: 1974
-  - **GNU Implementation**: Mike Haertel
-  - **GNU Initial Release**: 1988
-  - **Included in GNU Coreutils**: 1992
+[^3]: Original Unix Author: Unknown (part of early Unix); Original Unix Release: 1970s; GNU Implementation: David MacKenzie; GNU Initial Release: 1980s; Included in GNU Coreutils: 1992
 
-- **[awk](https://en.wikipedia.org/wiki/AWK)**:
-  - **Original Unix Authors**: Alfred Aho, Peter Weinberger, and Brian Kernighan
-  - **Original Unix Release**: 1977
-  - **GNU Implementation**: Paul Rubin, Jay Fenlason, Richard Stallman
-  - **GNU Initial Release**: 1988 (as gawk)
-  - **Note**: Not part of GNU Coreutils, but a separate GNU package
+[^4]: Original Unix Author: Ken Thompson; Original Unix Release: 1974; GNU Implementation: Mike Haertel; GNU Initial Release: 1988; Included in GNU Coreutils: 1992
 
-- **[find](https://en.wikipedia.org/wiki/Find_(Unix))**:
-  - **Original Unix Author**: Unknown (part of early Unix)
-  - **Original Unix Release**: 1970s
-  - **GNU Implementation**: Eric B. Decker, James Youngman, and others
-  - **GNU Initial Release**: 1990
-  - **Note**: Part of GNU Findutils, not Coreutils
+[^5]: Original Unix Authors: Alfred Aho, Peter Weinberger, and Brian Kernighan; Original Unix Release: 1977; GNU Implementation: Paul Rubin, Jay Fenlason, Richard Stallman; GNU Initial Release: 1988 (as gawk); Note: Not part of GNU Coreutils, but a separate GNU package
+
+[^6]: Original Unix Author: Unknown (part of early Unix); Original Unix Release: 1970s; GNU Implementation: Eric B. Decker, James Youngman, and others; GNU Initial Release: 1990; Note: Part of GNU Findutils, not Coreutils
 
 ## State of the Art Before GNU
 
 Before Richard Stallman launched the GNU Project in 1983, the computing landscape was quite different.
 - Unix was widely used in academic and commercial settings, but it was proprietary software owned by AT&T.Various Unix versions existed, such as BSD (Berkeley Software Distribution), but they still contained AT&T code. Commercial Unix systems were expensive and came with restrictive licenses.
 - Most software was proprietary, and users didn't have the freedom to study, modify, or share the source code.
-- PCs were becoming popular, but most ran proprietary operating systems like MS-DOS[^1].
+- PCs were becoming popular, but most ran proprietary operating systems like MS-DOS[^msdos].
 - The closed nature of software hindered collaboration and innovation among programmers.
 
-[^1]: MS-DOS was first released in 1981, just two years before the GNU Project began. The IBM PC, which popularized the personal computer market, was introduced in 1981 as well. Prior to MS-DOS, early personal computers used a variety of operating systems, including CP/M and Apple DOS. The rapid adoption of the IBM PC and MS-DOS in the early 1980s was part of the changing landscape that motivated Stallman to start the GNU Project.
+[^msdos]: MS-DOS was first released in 1981, just two years before the GNU Project began. The IBM PC, which popularized the personal computer market, was introduced in 1981 as well. Prior to MS-DOS, early personal computers used a variety of operating systems, including CP/M and Apple DOS. The rapid adoption of the IBM PC and MS-DOS in the early 1980s was part of the changing landscape that motivated Stallman to start the GNU Project.
 
 Stallman's primary goal was to create a completely free Unix-like operating system. He aimed to:
 
@@ -99,4 +76,4 @@ The Linux kernel quickly gained popularity among developers and enthusiasts, lea
    - [Slackware](https://en.wikipedia.org/wiki/Slackware) (1993)
    - [Debian](https://en.wikipedia.org/wiki/Debian) (1993)
 
-**References:** [The early days of Linux](https://lwn.net/Articles/928581/), 
+**References:** [The early days of Linux](https://lwn.net/Articles/928581/).
