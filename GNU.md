@@ -1,40 +1,41 @@
  # History of GNU
 
- The GNU Project was launched by Richard Stallman on September 27, 1983, to create a free Unix-like operating system. GNU is a recursive acronym for
- "GNU's Not Unix!".
+WARNING: This literature review has been curated with the help of an LLM through the [Cursor AI](https://www.cursor.com/) interfaceand not been independently verified yet.
 
- ## Widely Used GNU Utilities and Programs
+The GNU Project was launched by Richard Stallman on September 27, 1983, to create a free Unix-likeoperating system. GNU is a recursive acronym for
+"GNU's Not Unix!".
+## Widely Used GNU Utilities and Programs
 
- - **GNU Bash**: The Bourne Again Shell, a widely used command processor.
-   - **Author**: Brian Fox
-   - **Initial Release**: 1989
- - **GNU Core Utilities**: Basic file, shell, and text manipulation utilities.
-   - **Author**: David MacKenzie
-   - **Initial Release**: 1992
- - **GNU Compiler Collection (GCC)**: A compiler system supporting various programming languages.
-   - **Author**: Richard Stallman
-   - **Initial Release**: 1987
- - **GNU Emacs**: An extensible, customizable text editor.
-   - **Author**: Richard Stallman
-   - **Initial Release**: 1985
- - **GNU Make**: A build automation tool.
-   - **Author**: Richard Stallman
-   - **Initial Release**: 1988
- - **GNU Debugger (GDB)**: A portable debugger.
-   - **Author**: Richard Stallman
-   - **Initial Release**: 1986
- - **GNU Binutils**: A collection of binary tools.
-   - **Author**: Steve Chamberlain
-   - **Initial Release**: 1990
- - **GNU Wget**: A network downloader.
-   - **Author**: Hrvoje Nikšić
-   - **Initial Release**: 1996
- - **GNU Tar**: An archiving utility.
-   - **Author**: John Gilmore
-   - **Initial Release**: 1988
- - **GNU Sed**: A stream editor for filtering and transforming text.
-   - **Author**: Lee E. McMahon
-   - **Initial Release**: 1974 (as part of Unix), adopted by GNU in the 1980s
+- **GNU Bash**: The Bourne Again Shell, a widely used command processor.
+  - **Author**: Brian Fox
+  - **Initial Release**: 1989
+- **GNU Core Utilities**: Basic file, shell, and text manipulation utilities.
+  - **Author**: David MacKenzie
+  - **Initial Release**: 1992
+- **GNU Compiler Collection (GCC)**: A compiler system supporting various programming languages.
+  - **Author**: Richard Stallman
+  - **Initial Release**: 1987
+- **GNU Emacs**: An extensible, customizable text editor.
+  - **Author**: Richard Stallman
+  - **Initial Release**: 1985
+- **GNU Make**: A build automation tool.
+  - **Author**: Richard Stallman
+  - **Initial Release**: 1988
+- **GNU Debugger (GDB)**: A portable debugger.
+  - **Author**: Richard Stallman
+  - **Initial Release**: 1986
+- **GNU Binutils**: A collection of binary tools.
+  - **Author**: Steve Chamberlain
+  - **Initial Release**: 1990
+- **GNU Wget**: A network downloader.
+  - **Author**: Hrvoje Nikšić
+  - **Initial Release**: 1996
+- **GNU Tar**: An archiving utility.
+  - **Author**: John Gilmore
+  - **Initial Release**: 1988
+- **GNU Sed**: A stream editor for filtering and transforming text.
+  - **Author**: Lee E. McMahon
+  - **Initial Release**: 1974 (as part of Unix), adopted by GNU in the 1980s
 
  ## History of GNU Core Utilities
 
