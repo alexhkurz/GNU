@@ -6,16 +6,16 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 "GNU's Not Unix!".
 ## Widely Used GNU Utilities and Programs
 
-- **[Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**: ([Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)), 1989) The Bourne Again Shell, a widely used command processor.
-- **[Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities)**: (David MacKenzie, 1992) Basic file, shell, and text manipulation utilities.
-- **[Compiler Collection (GCC)](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1987) A compiler system supporting various programming languages.
-- **[Emacs](https://en.wikipedia.org/wiki/GNU_Emacs)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1985) An extensible, customizable text editor.
-- **[Make](https://en.wikipedia.org/wiki/Make_(software)#GNU_Make)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1988) A build automation tool.
-- **[Debugger (GDB)](https://en.wikipedia.org/wiki/GNU_Debugger)**: ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1986) A portable debugger.
-- **[Binutils](https://en.wikipedia.org/wiki/GNU_Binutils)**: (Steve Chamberlain, 1990) A collection of binary tools.
-- **[Wget](https://en.wikipedia.org/wiki/Wget)**: ([Hrvoje Nikšić](https://en.wikipedia.org/wiki/Hrvoje_Nik%C5%A1i%C4%87), 1996) A network downloader.
-- **[Tar](https://en.wikipedia.org/wiki/Tar_(computing))**: ([John Gilmore](https://en.wikipedia.org/wiki/John_Gilmore_(activist)), 1988) An archiving utility.
-- **[Sed](https://en.wikipedia.org/wiki/Sed)**: ([Lee E. McMahon](https://en.wikipedia.org/wiki/Lee_E._McMahon), 1974) A stream editor for filtering and transforming text. Adopted by GNU in the 1980s.
+- [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) ([Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)), 1989) The Bourne Again Shell, a widely used command processor.
+- [Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities) (David MacKenzie, 1992) Basic file, shell, and text manipulation utilities.
+- [Compiler Collection (GCC)](https://en.wikipedia.org/wiki/GNU_Compiler_Collection) ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1987) A compiler system supporting various programming languages.
+- [Emacs](https://en.wikipedia.org/wiki/GNU_Emacs) ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1985) An extensible, customizable text editor.
+- [Make](https://en.wikipedia.org/wiki/Make_(software)#GNU_Make) ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1988) A build automation tool.
+- [Debugger (GDB)](https://en.wikipedia.org/wiki/GNU_Debugger) ([Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman), 1986) A portable debugger.
+- [Binutils](https://en.wikipedia.org/wiki/GNU_Binutils) (Steve Chamberlain, 1990) A collection of binary tools.
+- [Wget](https://en.wikipedia.org/wiki/Wget) ([Hrvoje Nikšić](https://en.wikipedia.org/wiki/Hrvoje_Nik%C5%A1i%C4%87), 1996) A network downloader.
+- [Tar](https://en.wikipedia.org/wiki/Tar_(computing)) ([John Gilmore](https://en.wikipedia.org/wiki/John_Gilmore_(activist)), 1988) An archiving utility.
+- [Sed](https://en.wikipedia.org/wiki/Sed) ([Lee E. McMahon](https://en.wikipedia.org/wiki/Lee_E._McMahon), 1974) A stream editor for filtering and transforming text. Adopted by GNU in the 1980s.
 
  ## History of GNU Core Utilities
 
@@ -25,12 +25,12 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 
  ### Most Popular Command-Line Tools
 
-- **[ls](https://en.wikipedia.org/wiki/Ls), [cp](https://en.wikipedia.org/wiki/Cp_(Unix)), [mv](https://en.wikipedia.org/wiki/Mv), [rm](https://en.wikipedia.org/wiki/Rm_(Unix)), [chmod](https://en.wikipedia.org/wiki/Chmod), [chown](https://en.wikipedia.org/wiki/Chown), [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [echo](https://en.wikipedia.org/wiki/Echo_(command))**[^1]
-- **[touch](https://en.wikipedia.org/wiki/Touch_(command))**[^2]
-- **[date](https://en.wikipedia.org/wiki/Date_(Unix)), [head](https://en.wikipedia.org/wiki/Head_(Unix)), [tail](https://en.wikipedia.org/wiki/Tail_(Unix))**[^3]
-- **[grep](https://en.wikipedia.org/wiki/Grep)**[^4]
-- **[awk](https://en.wikipedia.org/wiki/AWK)**[^5]
-- **[find](https://en.wikipedia.org/wiki/Find_(Unix))**[^6]
+- [ls](https://en.wikipedia.org/wiki/Ls), [cp](https://en.wikipedia.org/wiki/Cp_(Unix)), [mv](https://en.wikipedia.org/wiki/Mv), [rm](https://en.wikipedia.org/wiki/Rm_(Unix)), [chmod](https://en.wikipedia.org/wiki/Chmod), [chown](https://en.wikipedia.org/wiki/Chown), [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [echo](https://en.wikipedia.org/wiki/Echo_(command)) [^1]
+- [touch](https://en.wikipedia.org/wiki/Touch_(command)) [^2]
+- [date](https://en.wikipedia.org/wiki/Date_(Unix)), [head](https://en.wikipedia.org/wiki/Head_(Unix)), [tail](https://en.wikipedia.org/wiki/Tail_(Unix)) [^3]
+- [grep](https://en.wikipedia.org/wiki/Grep) [^4]
+- [awk](https://en.wikipedia.org/wiki/AWK) [^5]
+- [find](https://en.wikipedia.org/wiki/Find_(Unix)) [^6]
 
 [^1]: Original Unix Author: Ken Thompson; Original Unix Release: circa 1971-1973; GNU Implementation: Richard Stallman; GNU Initial Release: 1980s (exact dates vary); Included in GNU Coreutils: 1992
 
