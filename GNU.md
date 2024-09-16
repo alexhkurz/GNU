@@ -69,19 +69,13 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 
 ## State of the Art Before GNU
 
-Before Richard Stallman launched the GNU Project in 1983, the computing landscape was quite different:
-
-- **Proprietary Unix Systems**: Unix was widely used in academic and commercial settings, but it was proprietary software owned by AT&T.Various Unix versions existed, such as BSD (Berkeley Software Distribution), but they still contained AT&T code. Commercial Unix systems were expensive and came with restrictive licenses.
-
-- **Lack of Free Software**: Most software was proprietary, and users didn't have the freedom to study, modify, or share the source code.
-
-- **Emerging Personal Computer Market**: PCs were becoming popular, but most ran proprietary operating systems like MS-DOS[^1].
-
-- **Limited Collaboration**: The closed nature of software hindered collaboration and innovation among programmers.
+Before Richard Stallman launched the GNU Project in 1983, the computing landscape was quite different.
+- Unix was widely used in academic and commercial settings, but it was proprietary software owned by AT&T.Various Unix versions existed, such as BSD (Berkeley Software Distribution), but they still contained AT&T code. Commercial Unix systems were expensive and came with restrictive licenses.
+- Most software was proprietary, and users didn't have the freedom to study, modify, or share the source code.
+- PCs were becoming popular, but most ran proprietary operating systems like MS-DOS[^1].
+- The closed nature of software hindered collaboration and innovation among programmers.
 
 [^1]: MS-DOS was first released in 1981, just two years before the GNU Project began. The IBM PC, which popularized the personal computer market, was introduced in 1981 as well. Prior to MS-DOS, early personal computers used a variety of operating systems, including CP/M and Apple DOS. The rapid adoption of the IBM PC and MS-DOS in the early 1980s was part of the changing landscape that motivated Stallman to start the GNU Project.
-
-### The Problem Stallman Set Out to Solve
 
 Stallman's primary goal was to create a completely free Unix-like operating system. He aimed to:
 
