@@ -21,10 +21,8 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 
  The GNU Core Utilities, or coreutils, is a package of GNU software containing reimplementations of many basic Unix tools. It was created to provide a
  consistent and free set of tools for Unix-like operating systems. The coreutils package combines three formerly separate packages: fileutils, shellutil
- and textutils.
-
- ### Most Popular Command-Line Tools
-
+ and textutils. Here are some of the most important utilities:
+ 
 - [ls](https://en.wikipedia.org/wiki/Ls), [cp](https://en.wikipedia.org/wiki/Cp_(Unix)), [mv](https://en.wikipedia.org/wiki/Mv), [rm](https://en.wikipedia.org/wiki/Rm_(Unix)), [chmod](https://en.wikipedia.org/wiki/Chmod), [chown](https://en.wikipedia.org/wiki/Chown), [cat](https://en.wikipedia.org/wiki/Cat_(Unix)), [echo](https://en.wikipedia.org/wiki/Echo_(command)) [^1]
 - [touch](https://en.wikipedia.org/wiki/Touch_(command)) [^2]
 - [date](https://en.wikipedia.org/wiki/Date_(Unix)), [head](https://en.wikipedia.org/wiki/Head_(Unix)), [tail](https://en.wikipedia.org/wiki/Tail_(Unix)) [^3]
