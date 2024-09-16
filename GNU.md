@@ -6,9 +6,7 @@ The GNU Project was launched by Richard Stallman on September 27, 1983, to creat
 "GNU's Not Unix!".
 ## Widely Used GNU Utilities and Programs
 
-- **[GNU Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**: The Bourne Again Shell, a widely used command processor.
-  - **Author**: [Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer))
-  - **Initial Release**: 1989
+- **[GNU Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))**: ([Brian Fox](https://en.wikipedia.org/wiki/Brian_Fox_(computer_programmer)), 1989) The Bourne Again Shell, a widely used command processor.
 - **[GNU Core Utilities](https://en.wikipedia.org/wiki/GNU_Core_Utilities)**: Basic file, shell, and text manipulation utilities.
   - **Author**: David MacKenzie
   - **Initial Release**: 1992
