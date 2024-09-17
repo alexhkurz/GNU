@@ -2,6 +2,8 @@
 
 WARNING: This literature review has been curated with the help of an LLM through the [Cursor AI](https://www.cursor.com/) interface and has not been independently verified yet.
 
+(work in progress)
+
 The GNU Project was launched by Richard Stallman on September 27, 1983, to create a free Unix-likeoperating system. GNU is a recursive acronym for "GNU's Not Unix!".
 ## Widely Used GNU Utilities and Programs
 
